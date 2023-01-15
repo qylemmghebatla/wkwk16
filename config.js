@@ -16,30 +16,7 @@ global.gopay = '-'
 global.namebot = 'BangQyle'
 global.gc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 𝖖𝖞𝖑𝖊𝖓𝖘𝖊𝖒𝖇𝖔𝖙𝖟
- *• SEWA BOT & UP TO PREMIUM •*
-        
-╭─「 SEWABOT • 」
-│ • Maxis [ 0177302593 ] 
-│ • Umobile  [PM OWNER]
-│ • Celcom  [PM OWNER]
-│ • Digi  [PM OWNER]
-╰────
-╭─「 *BASIC PRICE* 」
-│ > 1 Minggu - RM 3:00 / 4 Group
-│ > 3 Minggu - RM 5:00 / 6 Group
-│ > Unlimited  - RM 11:00 / Unlimited Group
-│ 
-╰────
-╭─「 *PREMIUM PRICE* 」
-│ > 1 Minggu - RM 7:00 / 6 Group
-│ > 3 Minggu - RM 9:00 / 10 Group
-│ > Unlimited - RM 15:00 / Unlimited Group 
-│ 
-╰────
-wa.me/60177302593
-*Bukan Bot!!!*
-*Owner QYLEBOTZ*'
+global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg' //ganti jadi foto bot mu
