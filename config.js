@@ -1,35 +1,58 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['60177302593'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
+global.nameowner = 'Qyle'
+global.numberowner = '60177302593'
+global.instagram = 'https://www.instagram.com/jstme._____'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.dana = '-'
+global.pulsa = '-'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
+global.namebot = 'BangQyle'
+global.gc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = 𝖖𝖞𝖑𝖊𝖓𝖘𝖊𝖒𝖇𝖔𝖙𝖟
+ *• SEWA BOT & UP TO PREMIUM •*
+        
+╭─「 SEWABOT • 」
+│ • Maxis [ 0177302593 ] 
+│ • Umobile  [PM OWNER]
+│ • Celcom  [PM OWNER]
+│ • Digi  [PM OWNER]
+╰────
+╭─「 *BASIC PRICE* 」
+│ > 1 Minggu - RM 3:00 / 4 Group
+│ > 3 Minggu - RM 5:00 / 6 Group
+│ > Unlimited  - RM 11:00 / Unlimited Group
+│ 
+╰────
+╭─「 *PREMIUM PRICE* 」
+│ > 1 Minggu - RM 7:00 / 6 Group
+│ > 3 Minggu - RM 9:00 / 10 Group
+│ > Unlimited - RM 15:00 / Unlimited Group 
+│ 
+╰────
+wa.me/60177302593
+*Bukan Bot!!!*
+*Owner QYLEBOTZ*'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = 'QyleBotz'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm2 = '                     「QyleBotz 」'
+global.wm3 = 'QyleBotz
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
+global.media = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = 'Process...'
 global.eror = 'ERROR'
@@ -37,7 +60,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'QYLEBOTZ⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
